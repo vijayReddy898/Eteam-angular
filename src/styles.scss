@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* app-wide styles */
+/* ideal place for you to override bootstrap styles */
+
+$primary-text-color: red;
+
+.redText {
+  color: $primary-text-color;
+}
